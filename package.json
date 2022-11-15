@@ -1,0 +1,11 @@
+{
+  "name": "egpaf",
+  "version": "1.0.0",
+  "description": "screening test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kondwani Isazaki Zikani Msiska",
+  "license": "ISC"
+}
